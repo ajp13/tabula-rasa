@@ -1,0 +1,2 @@
+# tabula-rasa
+Perception, again, is an impression produced on the mind, its name being appropriately borrowed from impressions on wax made by a seal; and perception they divide into, comprehensible and incomprehensible: Comprehensible, which they call the criterion of facts, and which is produced by a real object, and is, therefore, at the same time conformable to that object; Incomprehensible, which has no relation to any real object, or else, if it has any such relation, does not correspond to it, being but a vague and indistinct representation.
